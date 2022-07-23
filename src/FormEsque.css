@@ -1,0 +1,19 @@
+.Corpo{
+    background-image:repeating-linear-gradient(#7fffd4, #f0ffff, #ffebcd);
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    justify-content: space-between;
+    color: blueviolet;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    
+}
+
+input{
+    width: 200px;
+    border: none;
+   
+}
