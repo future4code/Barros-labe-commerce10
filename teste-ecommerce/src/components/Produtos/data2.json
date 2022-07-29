@@ -1,0 +1,26 @@
+[
+  {
+    "id": "011218b4-ac07-4d69-92c9-a27976481138",
+   " alt": "Imagem de um Caça TIE",
+    "name": "Caça TIE",
+    "desc":"Rápido e ideal para acabar com pequenos bombardeiros ou traficantes interespaciais.",
+    "price": 19000,
+    "button": "Comprar"
+ },
+ {
+    "id": "01a314a5-3a47-4367-b3e5-25318feb655a",
+   " alt": "Imagem de um Bombardeiro TIE",
+    "name": "Bombardeiro TIE",
+    "desc":"Liquide com as grandes naves de guerra do seu oponente sem arriscar perder as suas.",
+    "price": 16000,
+    "button": "Comprar"
+ },
+ {
+  "id": "011218b4-ac07-4d69-92c9-a27976481138",
+  " alt": "Imagem de um Crusador Imperial",
+   "name": "Crusador Imperial",
+   "desc":"Todo o poder, imponência e classe imperial com ar de fábrica e insufilm na lateral.",
+   "price": 1499000,
+   "button": "Comprar"
+ }
+]
